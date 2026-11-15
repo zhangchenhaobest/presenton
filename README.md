@@ -1,3 +1,29 @@
+# presenton
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 AI 演示文稿生成器与 API，可替代 Gamma、Canva、Beautiful AI 等。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="./readme_assets/images/logo.png" alt="Presenton" />
 </p>
